@@ -1,6 +1,7 @@
 # A Multi-Resolution 3D-DenseNet for Chemical Shift Prediction in NMR Crystallography
 
-Shuai Liu, Jie Li, Kochise C. Bennett, Brad Ganoe, Tim Stauch, Martin Head-Gordon, Alexander Hexemer, Daniela Ushizima and Teresa Head-Gordon
+Shuai Liu, Jie Li, Kochise C. Bennett, Brad Ganoe, Tim Stauch, Martin Head-Gordon, Alexander Hexemer, Daniela Ushizima and Teresa Head-Gordon(2019) Multiresolution 3D-DenseNet for Chemical Shift Prediction in NMR Crystallography. J. Phys. Chem. Lett. 10, 4558−4565. 
+DOI: 10.1021/acs.jpclett.9b01570.
 
 
 Dependences: requests, pytorch, tensorflow, keras
